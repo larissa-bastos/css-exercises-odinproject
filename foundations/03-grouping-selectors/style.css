@@ -1,0 +1,13 @@
+button {
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.botao1 {
+    background-color: black;
+    color: white;
+}
+
+.botao2 {
+    background-color: yellow;
+}

@@ -1,0 +1,19 @@
+.pink-bg {
+    background-color: palevioletred;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#primeira-id {
+    color: blue;
+    font-size: 36px;
+}
+
+.numero3 {
+    font-size: 24px;
+}
+
+#segunda-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
